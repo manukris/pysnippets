@@ -27,6 +27,24 @@ else:
         print("not a anagram")
 
 
+################################################################################################
+
+#This snippet can be used to check the memory usage of an object.
+
+import sys
+
+variable = "hello"
+print(sys.getsizeof(variable)) #
+
+
+#This method chunks a list into smaller lists of a specified size.
+
+
+
+
+
+
+
 
 
 
